@@ -29,4 +29,4 @@ int main(void)
 	printf("10개 정수의 합은 %d입니다.\n", s);
 
 	return 0;
-} 
+}
